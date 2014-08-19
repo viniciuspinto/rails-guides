@@ -3,7 +3,7 @@ Rails Guides
 
 Generated Rails guides for offline viewing.
 
-Last version: 4.1.0.beta1
+Latest version: 4.2.0.alpha
 
 Generated with:
 
